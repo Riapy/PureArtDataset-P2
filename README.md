@@ -68,9 +68,9 @@ Below are example images from several style categories in the **P2 dataset**.
 You can download the **P2 dataset** from the following link:
 
 🔗 **[P2 Dataset (Buidu Drive)](https://link-here.com)**
- 📁 Format: Folder structured by style category
- 📦 Size: 1.9 GB
- 📝 Description: Each image is filtered based on style uncertainty to ensure higher consistency within each class.
+ -📁 Format: Folder structured by style category
+ -📦 Size: 1.9 GB
+ -📝 Description: Each image is filtered based on style uncertainty to ensure higher consistency within each class.
 
 > ⚠️ If you use the dataset in your research, please consider citing our paper or acknowledging this repository.
 
