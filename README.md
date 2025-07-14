@@ -33,6 +33,7 @@ P2 is a purified version of existing style classification datasets (Painting91, 
 ## 📦 Structure
 
 ```
+复制编辑
 P2/
 │
 ├── Abstract-expressionism/
@@ -50,8 +51,6 @@ P2/
 
 Below are example images from several style categories in the **P2 dataset**. 
 
- 
-
 | **style**              | **imges**                                                    |                                                              |
 | :--------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | Abstract-expressionism | ![img](https://rcnc6338zx5i.feishu.cn/space/api/box/stream/download/asynccode/?code=MzNkMDk1OTgwMTUyYThkMmI4Njg1MDUzOTkxYzcwNDlfVlY0RGdkZmRWbVpXNHVXM1BkWEhmYUk5THNwNGpCeldfVG9rZW46TzNJVmJObHp3b0diNGp4YXlVaGNZMW1JbkhjXzE3NTI0NzQ2NDY6MTc1MjQ3ODI0Nl9WNA) | ![img](https://rcnc6338zx5i.feishu.cn/space/api/box/stream/download/asynccode/?code=Nzc1YjY2NGFhYmExN2M1YmViZWQ5MTY5MjEwMDcxMTFfcWlSSklCZDlEUEJINjR1WklWUGNBVEoxNWpYNzFVcHdfVG9rZW46SnlLZ2JCcWx3b1VxY3N4UHFISmM3aUZybm9mXzE3NTI0NzQ2NDY6MTc1MjQ3ODI0Nl9WNA) |
@@ -61,6 +60,19 @@ Below are example images from several style categories in the **P2 dataset**.
 | Romanticism            | ![img](https://rcnc6338zx5i.feishu.cn/space/api/box/stream/download/asynccode/?code=NzIzNWYxNmI4YjMxYzQ0NjIxMGJjNjMzNzM1MjliNDJfUVk3NHZaZHFSOHZaMFdQS3N0cFp3QWJLeGdHUjBYQWZfVG9rZW46T25UNGJGTFVub1dma2x4YjBObmNsN1VQbkhjXzE3NTI0NzQ2NDY6MTc1MjQ3ODI0Nl9WNA) | ![img](https://rcnc6338zx5i.feishu.cn/space/api/box/stream/download/asynccode/?code=NTRiNzU5MDAxMjE5NmZkMGM3NTc0NjJjZjdkMWNlZTVfd3pDMUt1WWI4dEloU05tVGJPWHpZcWJ4VFY5RFBnVG1fVG9rZW46UmxMQmJBRlBIb0ZnUFd4bGdVNmM4Tm9CbjFkXzE3NTI0NzQ2NDY6MTc1MjQ3ODI0Nl9WNA) |
 | Surrealism             | ![img](https://rcnc6338zx5i.feishu.cn/space/api/box/stream/download/asynccode/?code=YmE3MjlkYzEyNjgxZTQ5MGU1NWQ0OTZjYWI1MWZmNGVfaWVlZzI2cDZyQldNaElnMjBlTU9OcUtiNWUzS29RSkdfVG9rZW46WGVUcmI2eFRvb1JyU3R4bTRVMWNKMU1abk1kXzE3NTI0NzQ2NDY6MTc1MjQ3ODI0Nl9WNA) | ![img](https://rcnc6338zx5i.feishu.cn/space/api/box/stream/download/asynccode/?code=NzEwNWZiMWVmZWNmY2Q5YzQ0MTZmNjliZmI3YTAyZmRfZnNYODdyQ3RtZmxORVpsY2JMaThraTJPYjZuZUlYYkxfVG9rZW46UG11NGJXdUMwb2twVFd4QUVFOGNmczIzbkZrXzE3NTI0NzQ2NDY6MTc1MjQ3ODI0Nl9WNA) |
 | total                  |                                                              |                                                              |
+
+
+
+## 📦 Dataset Download
+
+You can download the **P2 dataset** from the following link:
+
+🔗 **[P2 Dataset (Buidu Drive)](https://link-here.com)**
+ 📁 Format: Folder structured by style category
+ 📦 Size: 1.9 GB
+ 📝 Description: Each image is filtered based on style uncertainty to ensure higher consistency within each class.
+
+> ⚠️ If you use the dataset in your research, please consider citing our paper or acknowledging this repository.
 
 
 
