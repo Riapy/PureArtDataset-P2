@@ -33,7 +33,6 @@ P2 is a purified version of existing style classification datasets (Painting91, 
 ## 📦 Structure
 
 ```
-复制编辑
 P2/
 │
 ├── Abstract-expressionism/
